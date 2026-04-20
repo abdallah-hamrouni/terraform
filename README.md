@@ -20,7 +20,7 @@ AWS WAF
 
 ##  Services AWS utilisés
 
-### 🖥️ 1. EC2 (Amazon Elastic Compute Cloud)
+###  1. EC2 (Amazon Elastic Compute Cloud)
 
 Rôle :
 
