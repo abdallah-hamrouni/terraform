@@ -1,0 +1,12 @@
+aws_region       = "us-east-1"
+project_name     = "crudphpwaf"
+instance_type    = "t3.micro"
+key_name         = "terraform-key"
+private_key_path = "/home/client/Téléchargements/terraform-key.pem"
+app_source_path  = "../Terraform-AWS/src"
+allowed_ssh_cidr = "0.0.0.0/0"
+
+github_repo_url  = "https://github.com/Mohamed-Hedi-Jemaa/Terraform-AWS.git"
+db_name          = "blog"
+db_user          = "bloguser"
+db_password      = "BlogPass123!"
